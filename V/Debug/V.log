@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(皮城执法官——蔚.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  V_Crash.cpp
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_crash.cpp(43): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_crash.cpp(48): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  V_Move.cpp
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(117): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(221): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(252): warning C4305: “=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(257): warning C4305: “=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(289): warning C4305: “=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(294): warning C4305: “=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(336): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(347): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(354): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\msdn公司\desktop\研究与开发实践作业\v\v\v_move.cpp(365): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  V.vcxproj -> C:\Users\msdn公司\Desktop\研究与开发实践作业\V\V\Debug\V.exe
